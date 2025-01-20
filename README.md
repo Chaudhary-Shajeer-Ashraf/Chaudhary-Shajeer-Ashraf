@@ -1,3 +1,4 @@
+![logo](https://github.com/Chaudhary-Shajeer-Ashraf/Chaudhary-Shajeer-Ashraf/blob/main/banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Shajeer Ashraf</h1>
 <h3 align="center">Data Scientist | Empowering data-driven decisions through machine learning, and statistical insights.</h3>
 
